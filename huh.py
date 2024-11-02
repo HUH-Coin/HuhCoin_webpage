@@ -205,7 +205,7 @@ st.markdown("""
     </div>
     <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="24"/>
-        <a href="https://t.me/+-DqDMavr6E1iMzY1" target="_blank" style="color: #0088cc; text-decoration: none; font-weight: bold;">Join our Telegram</a>
+        <a href="https://t.me/HUH_Crypto_Coin" target="_blank" style="color: #0088cc; text-decoration: none; font-weight: bold;">Join our Telegram</a>
     </div>
 </div>
 """, unsafe_allow_html=True)
